@@ -1,0 +1,67 @@
+{
+"survey_title": "",  
+"survey_content": "",  
+"survey_type": "",  
+"survey_link": "",  
+"left_menu_image":"https://i.imgur.com/7BIRu4g.png",  
+"lite_mode":false,
+"content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
+"package_not_support_audio":"org.videolan.vlc",  
+"link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
+"update_isforce":false,  
+"update_isapk":true,  
+"update_title":"Update new version",  
+"update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
+<br></br>
+<b>Release Info</b>
+<br>- Version: 2.4.2</br>
+<br>- Size: 15.8MB</br>
+<br>- Filelinked code: 30837432</br>
+<br>- FireDL code: 686921</br>
+<br></br>
+<br><b>Change logs</b></br>
+<br>- Add note trusted sources.</br>
+<br>- Fix text notify in homescreen.</br>",  
+"update_build":"53",  
+"update_version":"2.4.2",  
+"update_link":"https://github.com/beetvapk/beetv/releases/download/2.4.2/BeeTV_v2.4.2.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/kodyzp05pb00uf3/BeeTV_v2.4.2.apk",
+"pkg_uninstall":"me.beetv.movieguide",  
+"pkg_uninstall_content":"Please uninstall old version",
+"http_config":"https",
+"gg_analytics_key":"UA-130029478-6",  
+"tmdb_key":"8e8a0ef4974dbc61df35cbde890f7dd5",
+"ads_priority":"amazon",
+"text_link":"https://www.uploadship.com/c08be12f4a0f89ad",
+"text_content":"Season 4 is season 2 from ep9 to ep16",
+"text_title":"Money Heist",
+"text_type":"tv",
+"text_id":"71446",
+"enable_cms":"0",
+"enable_install_player":true,
+"title_player":"One Player",
+"description_player":"Best player to work with BeeTV. Less ads and better streaming!",
+"link_download_player":"https://dl.dropboxusercontent.com/s/102vvzslejevxl3/BeeTV_v2.3.6.apk",
+"package_name_player":"com.one.player",
+"enable_amz":true,
+"oneplayer_version_build":"9",
+"openload_key":"DtsBlkVFQx",
+"ogury_enable":false,
+"enable_pokkt":false,
+"enable_admob":true,
+"op_user_agent":"novaapp 1.0.0",
+"adoech_banner":"/21617015150/50632918/21816587066",
+"adoech_full":"/21617015150/50632918/21816586997",
+"adoech_enable":false,
+"ogr_key":"OGY-2EE43D260DB3",
+"openload_domain":"https://openload.co",
+"is_banner_auto":false,
+"banner_photo":"",
+"banner_link":"",
+"banner_text":"",
+"priorirty_custom_ads":false,
+"mixdrop_config":"Cgp2YXIgaW50ZXJ2YWw7CnZhciBjb3VudCA9IDA7CgoKZ2V0Q29kZU1peERyb3AgPSAoKSA9PiB7CiAgICBpbnRlcnZhbCA9IHNldEludGVydmFsKGdldERhdGEsIDMwMCk7Cn0KCmdldERhdGEgPSAoKSA9PiB7CiAgICB2YXIgY29kZSA9IE1EQ29yZTsKICAgIGlmKGNvZGUgIT09IHVuZGVmaW5lZCAmJiBjb2RlLnd1cmwgIT09IG51bGwgJiYgY29kZS53dXJsLmxlbmd0aCA+IDApewogICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgIEFuZHJvaWQucmV0dXJuTGluayhjb2RlLnd1cmwpOwogICAgfWVsc2V7CiAgICAgICAgY291bnQgPSBjb3VudCArIDE7CiAgICAgICAgaWYoY291bnQgPT0gNjApewogICAgICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICAgICAgQW5kcm9pZC50aW1lb3V0KCk7CiAgICAgICAgfQogICAgfQoKfQ==",
+"mixdrop_domain":"mixdrop.co",
+"site_cookie":"https://5movies.to/search.php?q=venom, https://www5.123movies.ag, https://www4.watchfree.ac, https://www12.123moviesfree.com, https://hdmo.tv",
+"collection":"eyJpbmZvIjogWyB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyNTk0OCwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIlRoZSA1MCBIaWdoZXN0LUdyb3NzaW5nIE1vdmllcyBPZiBBbGwgVGltZSIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiAxMjI5MjcsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICIyMDE5IE1vdmllcyIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiAxMjI5MjYsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICIyMDE5IFNlYXNvbnMiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogOTI1ODgsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICJXV0UgJiBVRkMgUFBWIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyMDc1NywgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIk5ldGZsaXggU2hvd3MiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogMTIwNzU5LCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiSEJPIFNob3dzIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyMDgxMiwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIkNXIFNob3dzIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyMDc2MCwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIkFtYXpvbiBTaG93cyIgfSx7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyMDgxOCwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIkJCQyBPbmUgU2hvd3MiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogMTIwODIwLCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiRlggU2hvd3MiIH1dIH0="
+}
